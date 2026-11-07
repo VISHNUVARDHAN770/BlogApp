@@ -16,10 +16,8 @@ A full-stack blogging platform built with the **MERN stack**: MongoDB, Express.j
 - **Comments:** Create, read, update, and delete comments on posts.
 - **Authorization:** Only the owner can edit or delete their posts/comments.
 - **API documentation:** Swagger UI (if configured in the backend).
-- **Input validation:** Request validation with `express-validator` (if configured).
+- **Input validation:** Request validation with `express-validator`.
 - **Database:** MongoDB Atlas with Mongoose.
-
-> Keep this feature list aligned with the features actually implemented and tested in your repository.
 
 ## Tech Stack
 
