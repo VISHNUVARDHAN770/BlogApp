@@ -30,7 +30,7 @@ A full-stack blogging platform built with the **MERN stack**: MongoDB, Express.j
 | HTTP client | Axios |
 | Validation | express-validator |
 | API documentation | Swagger UI |
-| Testing | Jest, Supertest *(if configured)* |
+| Testing | Jest, Supertest  |
 | Deployment | Vercel (frontend), Render (backend) |
 
 ## Project Structure
